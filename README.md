@@ -1,4 +1,4 @@
 # bggn213
 
-bioinformatics class things at UCSD. 
+bioinformatics class things at UC San Diego. 
 
