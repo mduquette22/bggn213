@@ -1,7 +1,7 @@
 ---
 title: "Class10 - CANDY"
 author: "Madeleine Duquette"
-format: pdf
+format: gfm
 date: 10/28/22
 ---
 
