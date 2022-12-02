@@ -4,4 +4,4 @@
 
 - Class 4: [Introduction to R]()  
 - Class 5: [ggplot]()  
-- Class 10: [PCA of Candy]() - some people have terrible taste (and it's quantifiable!)  
+- Class 10: [PCA of Candy](https://github.com/mduquette22/bggn213/blob/main/Class10%20-%20CANDY/Class10---Dandy-Candy.pdf) - some people have terrible taste (and it's quantifiable!)  
